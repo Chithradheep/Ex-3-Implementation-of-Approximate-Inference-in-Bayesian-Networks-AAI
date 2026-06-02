@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
 
-### Name: 
-### Register Number:
+### Name: CHITHRADHEEP R
+### Register Number: 2305002003
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
@@ -134,6 +134,8 @@ print(query_result)
 ---
 ## Output:
 
+<img width="845" height="702" alt="image" src="https://github.com/user-attachments/assets/de7927f0-956c-4db5-8591-2b08ef31e3fc" />
+<img width="458" height="128" alt="image" src="https://github.com/user-attachments/assets/79fd1a87-6976-421b-9063-0188e7f06927" />
 
 ---
 
